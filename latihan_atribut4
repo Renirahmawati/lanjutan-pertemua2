@@ -1,0 +1,13 @@
+package pertemuan_3;
+
+import javax.swing.JOptionPane;
+
+/**
+ *
+ * @author acer
+ */
+public class latihan_atribut4 {
+     void atribut4 (){
+        JOptionPane.showMessageDialog(null, "selamat anda mendapatkan choki-choki");
+    }
+}
