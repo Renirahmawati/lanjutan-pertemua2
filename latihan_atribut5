@@ -1,0 +1,13 @@
+package pertemuan_3;
+
+import javax.swing.JOptionPane;
+
+/**
+ *
+ * @author acer
+ */
+public class latihan_atribut5 {
+     void atribut5 (){
+        JOptionPane.showMessageDialog(null, "ngeyel");
+    }
+}
