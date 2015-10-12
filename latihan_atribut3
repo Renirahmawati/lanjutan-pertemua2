@@ -1,0 +1,13 @@
+package pertemuan_3;
+
+import javax.swing.JOptionPane;
+
+/**
+ *
+ * @author acer
+ */
+public class latihan_atribut3 {
+     void atribut3 (){
+        JOptionPane.showMessageDialog(null, "salah");
+    }
+}
