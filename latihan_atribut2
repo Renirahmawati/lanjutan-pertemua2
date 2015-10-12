@@ -1,0 +1,13 @@
+package pertemuan_3;
+
+import javax.swing.JOptionPane;
+
+/**
+ *
+ * @author acer
+ */
+public class latihan_atribut2 {
+     void atribut2 (){
+        JOptionPane.showMessageDialog(null, "silahkan coba lagi");
+    }
+}
